@@ -1,0 +1,6 @@
+The first commit by master branch
+<<<<<<< HEAD
+The second commit has done by dev1
+=======
+The third commit has done by the dev 2
+>>>>>>> dev2
